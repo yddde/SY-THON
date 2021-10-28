@@ -1,7 +1,7 @@
 FROM sandy1709/catuserbot:slim-buster
 
 #clonning repo 
-RUN git clone https://github.com/JMTHON-AR/JM-THON.git /root/userbot
+RUN git clone https://github.com/YDDDE/SY-THON.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
